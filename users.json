@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "YiLing",
+      "remaining_time": 100
+    },
+    {
+      "id": "user2",
+      "remaining_time": 0
+    },
+    {
+      "id": "user3",
+      "remaining_time": 0
+    }
+  ]
+}
